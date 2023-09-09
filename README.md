@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 I'm Lucas.
 
-<!--
-**LucasCraveiro/LucasCraveiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software enginner with experience in web applications. I'm passionate about Front-end and DevOps!
 
-Here are some ideas to get you started:
+### Some more about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: he/him
+- 🌱 I’m currently learning Rust 🦀
+- ⚽️ I'm a sports fan (specially Soccer).
+- 👨‍👩‍👧‍👦 I’m a husband and father of two.
+- 🔭 I’m currently working with Reactjs, Nextjs and Typescript.
+  
+#### 📫 How to reach me
+
+Feel free to contact me!
+
+- [Linkedin](https://www.linkedin.com/in/lucas-craveiro/)
+- [Email](mailto:lucashcraveiro@gmail.com)
+
