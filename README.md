@@ -7,7 +7,6 @@ I'm a software enginner with experience in web applications. I'm passionate abou
 - 😄 Pronouns: he/him
 - 🌱 I’m currently learning Rust 🦀
 - ⚽️ I'm a sports fan (specially Soccer).
-- 👨‍👩‍👧‍👦 I’m a husband and father of two.
 - 🔭 I’m currently working with Reactjs, Nextjs and Typescript.
   
 #### 📫 How to reach me
